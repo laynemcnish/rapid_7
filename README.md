@@ -60,4 +60,4 @@ The cost would be n times the cost of an insert or a lookup.
 
 In the average case scenario, the cost will be O(1*n) which is O(n) or linear and the worst case scenario would be O(n*n) which is O(n^2) or quadratic.  
 
-![benchmarks]("https://cloud.githubusercontent.com/assets/7490960/4708226/33a2a36c-5895-11e4-90ef-926be80f0c9b.png")
+![](https://cloud.githubusercontent.com/assets/7490960/4708226/33a2a36c-5895-11e4-90ef-926be80f0c9b.png)
