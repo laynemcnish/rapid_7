@@ -21,11 +21,11 @@ To give an example, if you provided the method with an array of [1,2,2,3,4,5,6,6
 
 To improve the given function, I broke it down into a few steps:
 
-**1: I wrote tests to test the original function to confirm it's functionality.
-**2: I added tests for my new methods I would add later.
-**3: I rewrote the function into two more explicit methods that separated the responsibilities so that each would only do one thing.
-**4: Throughout my refactoring, I ran my tests and consulted the results to make sure that with every change I made, I still had functioning methods.
-**5: I created a benchmarking program to test which was faster, the original function or my new methods.
+⋅⋅*1: I wrote tests to test the original function to confirm it's functionality.
+⋅⋅*2: I added tests for my new methods I would add later.
+⋅⋅*3: I rewrote the function into two more explicit methods that separated the responsibilities so that each would only do one thing.
+⋅⋅*4: Throughout my refactoring, I ran my tests and consulted the results to make sure that with every change I made, I still had functioning methods.
+⋅⋅*5: I created a benchmarking program to test which was faster, the original function or my new methods.
 
 ## New Methods
 
