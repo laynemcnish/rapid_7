@@ -53,7 +53,7 @@ To improve the given function, I broke it down into a few steps:
 
 ## Conclusion
 
-While both methods should scale with the same complexity, benchmarking the results showed that my methods would run about 3-5% faster than the original function.
+While both methods should scale with the same complexity, benchmarking the results showed that my methods would run about 3-5% faster than the original function (shown in the image below).
 
 Each approach inserts n elements into a hash and does n lookups in a hash in the worst case.  
 The cost would be n times the cost of an insert or a lookup.  
